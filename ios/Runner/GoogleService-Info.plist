@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>848433801669-pemqshinpn37gv0o31amhvatngog3hqg.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAppd45IM5-GIJzxppKA7xZ09GfW2VbSAc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>848433801669</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.whatsappUiClone</string>
+	<key>PROJECT_ID</key>
+	<string>let-s-chat-62624</string>
+	<key>STORAGE_BUCKET</key>
+	<string>let-s-chat-62624.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:848433801669:ios:977e102cf9139ded0203ac</string>
+	<key>DATABASE_URL</key>
+	<string>https://let-s-chat-62624-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
